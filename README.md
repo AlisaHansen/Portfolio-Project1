@@ -1,1 +1,1 @@
-In this project we use SQL Server to explore global COVID 19 data.
+In this project I used SQL Server to explore global COVID 19 data.
